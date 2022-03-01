@@ -162,7 +162,7 @@ img {
 	background: #020a13 url(../images/bg-adbox.jpg) no-repeat right top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	min-height: 433px;
-	margin: -56px 10px 30px;
+	margin: -56px 10px 10px;
 /** Needed for IE7 **/
 *margin: 0;
 *position: relative;
